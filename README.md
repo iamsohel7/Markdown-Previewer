@@ -1,4 +1,4 @@
-# This is a Markdown Previewer
+# React Markdown Previewer App
 
 
 ## Available Scripts
